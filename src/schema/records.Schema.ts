@@ -10,7 +10,7 @@ export class Records{
     @Prop({required: true})
     crypto: string;
     @Prop({required: true})
-    amount: number;
+    amount: string;
     @Prop()
     result: string;
     @Prop()

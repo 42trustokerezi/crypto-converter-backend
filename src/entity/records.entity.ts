@@ -1,7 +1,7 @@
 export class Record {
     convertTo: string;
     crypto: string;
-    amount: number;
-    result: number;
+    amount: string;
+    result: string;
     date: string;
   }
